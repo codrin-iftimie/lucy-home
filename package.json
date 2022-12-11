@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "es6-promise": "^4.2.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "universal-fetch": "^1.0.0"
   }
 }
